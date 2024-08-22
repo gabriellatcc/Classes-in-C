@@ -7,10 +7,8 @@
 </ul>
 
 <h3>- 28, fev./feb. 2024.</h3>
-<li>Solicita ao usuário que digite cinco números.</li>
-<li>Conta quantos desses números são negativos.</li>
-<li>Exibe a quantidade de números negativos ao final.</li>
-
-<li>Asks the user to input five numbers.</li>
-<li>Counts how many of those numbers are negative.</li>
-<li>Displays the number of negative values at the end.</li>
+| O que o código faz | What the code does |
+|--------------------|--------------------|
+| Solicita ao usuário que digite cinco números. | Asks the user to input five numbers. |
+| Conta quantos desses números são negativos. | Counts how many of those numbers are negative. |
+| Exibe a quantidade de números negativos ao final. | Displays the number of negative values at the end. |
