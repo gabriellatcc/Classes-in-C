@@ -7,22 +7,22 @@
 </ul>
 
 <h3>- 28, fev./feb. 2024.</h3>
-<div style="display: flex; justify-content: space-between;">
-
-  <div>
-    <ul>
-      <li>Solicita ao usuário que digite cinco números.</li>
-      <li>Conta quantos desses números são negativos.</li>
-      <li>Exibe a quantidade de números negativos ao final.</li>
-    </ul>
-  </div>
-
-  <div>
-    <ul>
-      <li>Asks the user to input five numbers.</li>
-      <li>Counts how many of those numbers are negative.</li>
-      <li>Displays the number of negative values at the end.</li>
-    </ul>
-  </div>
-
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>Solicita ao usuário que digite cinco números.</li>
+        <li>Conta quantos desses números são negativos.</li>
+        <li>Exibe a quantidade de números negativos ao final.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Asks the user to input five numbers.</li>
+        <li>Counts how many of those numbers are negative.</li>
+        <li>Displays the number of negative values at the end.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 </div>
