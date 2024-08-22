@@ -1,4 +1,5 @@
-<h1>Aulas usando C | Classes using C</h1> <sup><sub><b><span style="font-size: 10px; font-family: Arial, sans-serif;">BR</span></b></sub></sup></h2> | <sup><sub><b><span style="font-size: 10px; font-family: Arial, sans-serif;">US</span></b></sub></sup></h2>
+<h1>Aulas usando C | Classes using C</h1> 
+<sup><sub><b><span style="font-size: 10px; font-family: Arial, sans-serif;">BR</span></b></sub></sup></h2> | <sup><sub><b><span style="font-size: 10px; font-family: Arial, sans-serif;">US</span></b></sub></sup></h2>
 
 <ul>
   <p>Aqui eu registro os códigos em linguagem C que aprendi durante o primeiro semestre da faculdade na aula Algoritmos e Lógica de Programação.</p>
