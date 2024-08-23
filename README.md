@@ -7,7 +7,8 @@
   
 </ul>
 
-<h3>- 23, fev./feb. 2024.</h3>
+<h3>23, fev./feb. 2024.</h3>
+  <p>Quais números são negativos? | Which numbers are negative? </p>
 <table>
   <tr>
     <td>
@@ -26,4 +27,24 @@
     </td>
   </tr>
 </table>
-</div>
+  <p>Cálculo do Fatorial de um número inteiro | Calculating the Factorial of an integer number </p>
+  <table>
+  <tr>
+    <td>
+      <ul>
+        <li>Solicita ao usuário que digite um número.</li>
+        <li>Armazena o número digitado em uma variável n.</li>
+        <li>Calcula o fatorial do número n.</li>
+        <li>Exibe o valor do fatorial calculado na tela.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Prompts the user to enter a number.</li>
+        <li>Stores the entered number in a variable n.</li>
+        <li>Calculates the factorial of the number n.</li>
+        <li>Displays the calculated factorial value on the screen.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
