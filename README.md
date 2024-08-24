@@ -11,7 +11,7 @@
   <h2>🧩 O que os códigos fazem? | What do the codes do?</h2>
 </div>
 
-<p><strong>negativenum.c</strong></p>
+<p><strong>📌 negativenum.c</strong></p>
 <table>
   <tr>
     <td>
@@ -30,7 +30,7 @@
     </td>
   </tr>
   </table>
-<p><strong>factorial.c</strong></p>
+<p><strong>📌 factorial.c</strong></p>
   <table>
     <tr>
       <td>
@@ -51,30 +51,8 @@
       </td>
     </tr>
   </table>
-  
-<p><strong>factorial.c</strong></p>
-  <table>
-    <tr>
-      <td>
-        <ul>
-          <li>Solicita ao usuário que digite um número.</li>
-          <li>Armazena o número digitado em uma variável n.</li>
-          <li>Calcula o fatorial do número n.</li>
-          <li>Exibe o valor do fatorial calculado na tela.</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>Prompts the user to enter a number.</li>
-          <li>Stores the entered number in a variable n.</li>
-          <li>Calculates the factorial of the number n.</li>
-          <li>Displays the calculated factorial value on the screen.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-  
-<p><strong>cubicalweight.c</strong></p>
+
+<p><strong>📌 cubicalweight.c</strong></p>
 <table>
   <tr>
     <td>
@@ -98,7 +76,7 @@
   </tr>
 </table>
 
-<p><strong>distance.c</strong></p>
+<p><strong>📌 distance.c</strong></p>
 <table>
   <tr>
     <td>
