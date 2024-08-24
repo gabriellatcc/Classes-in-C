@@ -1,4 +1,4 @@
-<h1>Aulas usando C | Classes using C</h1> 
+<h1>🖥️ Aulas usando C | Classes using C</h1> 
 <sup><sub><b><span style="font-size: 10px; font-family: Arial, sans-serif;">BR</span></b></sub></sup> | <sup><sub><b><span style="font-size: 10px; font-family: Arial, sans-serif;">US</span></b></sub></sup>
 
 <ul>
@@ -8,7 +8,7 @@
 </ul>
 
 <div style="text-align: center;">
-  <h2>O que os códigos fazem? | What do the codes do?</h2>
+  <h2>🧩 O que os códigos fazem? | What do the codes do?</h2>
 </div>
 
 <p><strong>negativenum.c</strong></p>
