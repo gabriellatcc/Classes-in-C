@@ -1,14 +1,14 @@
 #include <stdio.h>
 int main()
 {
-  float a,l,c,vpc;
-      printf("digite o valor da altura em cm: ");
-      scanf("%f",&a);
-      printf("digite o valor da largura em cm: ");
+  float h,w,l,cwv;
+      printf("Enter the height value in cm: ");
+      scanf("%f",&h);
+      printf("Enter the width value in cm: ");
+      scanf("%f",&w);
+      printf("Lnter the length value in cm: ");
       scanf("%f",&l);
-      printf("digite o valor do comprimento em cm: ");
-      scanf("%f",&c);
-      vpc=(a*l*c)/6000;
-      printf("valor do peso cubico: %.2f",vpc);
+      cwv=(h*w*l)/6000;
+      printf("Cubical weight value: %.2f",cwv);
 return(0);
 }
