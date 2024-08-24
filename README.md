@@ -61,7 +61,7 @@
         <li>Solicita ao usuário que digite a largura em centímetros.</li>
         <li>Solicita ao usuário que digite o comprimento em centímetros.</li>
         <li>Calcula o valor do peso cúbico usando a fórmula (h*w*l) / 6000.</li>
-        <li>Exibe o valor do peso cúbico com duas casas decimais ao final.</li>
+        <li>Exibe o valor do peso cúbico ao final.</li>
       </ul>
     </td>
     <td>
@@ -70,7 +70,7 @@
         <li>Asks the user to input the width in centimeters.</li>
         <li>Asks the user to input the length in centimeters.</li>
         <li>Calculates the cubical weight using the formula (h*w*l) / 6000.</li>
-        <li>Displays the cubical weight value with two decimal places at the end.</li>
+        <li>Displays the cubical weight value at the end.</li>
       </ul>
     </td>
   </tr>
