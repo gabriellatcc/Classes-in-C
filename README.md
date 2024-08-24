@@ -7,8 +7,9 @@
   
 </ul>
 
-<h3>23, fev./feb. 2024.</h3>
-  <p>Quais números são negativos? | Which numbers are negative? </p>
+<h2>O que os códigos fazem? | What does the codes do? </h2>
+
+<p><strong>negativenum.c</strong></p>
 <table>
   <tr>
     <td>
@@ -27,7 +28,7 @@
     </td>
   </tr>
 </table>
-  <p>Cálculo do Fatorial de um número inteiro | Calculating the Factorial of an integer number </p>
+<p><strong>factorial.c</strong></p>
   <table>
   <tr>
     <td>
