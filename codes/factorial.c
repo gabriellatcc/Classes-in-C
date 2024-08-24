@@ -1,13 +1,13 @@
 #include <stdio.h>
 int main()
 {
-    int n,i,fat=1;
-        printf("digite um numero: ");
+    int n,i,fact=1;
+        printf("Enter a number: ");
         scanf("%d",&n);
             for(i=1;i<=n;i++)
             {
-                fat*=i;
+                fact*=i;
             }
-            printf("seu numero fatorado e: %d\n",fat);
+            printf("Yout factorial number is: %d\n",fact);
 return(0);
 }
