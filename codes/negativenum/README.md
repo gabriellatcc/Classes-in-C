@@ -1,7 +1,7 @@
-<h1>Display de números negativos | Negative number display </h1>
+<h2>Display de números negativos | Negative number display </h2>
 
 <div style="text-align: center;">
-  <h2>🧩 O que o código faz? | What does the code do?</h2>
+  <h3>🧩 O que o código faz? | What does the code do?</h3>
 </div>
 
 <p><strong>📌 negativenum.c</strong></p>
