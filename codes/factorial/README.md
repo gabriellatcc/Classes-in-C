@@ -1,7 +1,7 @@
-<sup><sub><b><span style="font-size: 10px; font-family: Arial, sans-serif;">BR</span></b></sub></sup> | <sup><sub><b><span style="font-size: 10px; font-family: Arial, sans-serif;">US</span></b></sub></sup>
+<h2>Display de resultado de numero fatorado | Factorial number display result</h2>
 
 <div style="text-align: center;">
-  <h2>🧩 O que o código faz? | What does the code do?</h2>
+  <h3>🧩 O que o código faz? | What does the code do?</h3>
 </div>
 
 <p><strong>📌 factorial.c</strong></p>
