@@ -10,14 +10,14 @@
     <td>
       <ul>
         <li>Solicita ao usuário que digite um número.</li>
-        <li>Faz o cálculo <code>ns=num*num<code>.</li>
+        <li>Faz o cálculo <code>ns=num*num</code>.</li>
         <li>Exibe o número ao quadrado ao final.</li>
       </ul>
     </td>
     <td>
       <ul>
         <li>Asks the user to input one number.</li>
-        <li>Calculates <code>ns=num*num<code></li>
+        <li>Calculates <code>ns=num*num</code>.</li>
         <li>Displays the squared number at the end.</li>
       </ul>
     </td>
