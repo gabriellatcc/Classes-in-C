@@ -9,5 +9,6 @@
   <li><a href="https://github.com/gabriellatcc/Classes-in-C/tree/main/codes/factorial"> Display de resultado de numero fatorado | Factorial number display result</a></li>
   <li><a href="https://github.com/gabriellatcc/Classes-in-C/tree/main/codes/cubicalweight">Display de peso cúbico | Cubical weight display</a></li>
   <li><a href="https://github.com/gabriellatcc/Classes-in-C/tree/main/codes/distance">Calculador de distancia | Distance calculator</a></li>
-  <li><a href="https://github.com/gabriellatcc/Classes-in-C/tree/main/codes/dollartoreal">Convertor de dolar para real | Dolar to real convertor</li>
+  <li><a href="https://github.com/gabriellatcc/Classes-in-C/tree/main/codes/dollartoreal">Convertor de dolar para real | Dolar to real convertor</a></li>
+  <li><a href="https://github.com/gabriellatcc/Classes-in-C/blob/main/codes/numbersquare/">Elevando um número ao quadrado | Squaring a number.</a></li>
 </ol>
