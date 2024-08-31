@@ -15,5 +15,5 @@
   <li><a href="https://github.com/gabriellatcc/Classes-in-C/blob/main/codes/gradecalculator/">Calculadora de notas | Grade Calculator</a></li>
   <li><a href="https://github.com/gabriellatcc/Classes-in-C/blob/main/codes/letter/">Entrada e exibição de uma letra | Letter input and display</a></li>
   <li><a href="https://github.com/gabriellatcc/Classes-in-C/blob/main/codes/evenorodd/">Indicador de número ímpar ou par | Even or odd number display</li>
-  <li><a href="https://github.com/gabriellatcc/Classes-in-C/blob/main/codes/idealweight/">Indicador de peso ideal fictício | Fiction ideal weight displayy</li>
+  <li><a href="https://github.com/gabriellatcc/Classes-in-C/blob/main/codes/idealweight/">Indicador de peso ideal fictício | Fictional ideal weight display</li>
 </ol>
