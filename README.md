@@ -4,7 +4,6 @@
   <p>Here, I document the C language codes I learned during the first semester of college in the Algorithms and Programming Logic class.</p>
   
 <h2>📌 Meus códigos e descrições sobre o que eles fazem | My codes and descriptions about what they do:</h2>
-<ol>
   <li><a href="https://github.com/gabriellatcc/Classes-in-C/tree/main/codes/negativenum">Display de números negativos | Negative number display</a></li>
   <li><a href="https://github.com/gabriellatcc/Classes-in-C/tree/main/codes/factorial"> Display de resultado de numero fatorado | Factorial number display result</a></li>
   <li><a href="https://github.com/gabriellatcc/Classes-in-C/tree/main/codes/cubicalweight">Display de peso cúbico | Cubical weight display</a></li>
@@ -16,4 +15,6 @@
   <li><a href="https://github.com/gabriellatcc/Classes-in-C/blob/main/codes/letter/">Entrada e exibição de uma letra | Letter input and display</a></li>
   <li><a href="https://github.com/gabriellatcc/Classes-in-C/blob/main/codes/evenorodd/">Indicador de número ímpar ou par | Even or odd number display</li>
   <li><a href="https://github.com/gabriellatcc/Classes-in-C/blob/main/codes/idealweight/">Indicador de peso ideal fictício | Fictional ideal weight display</li>
-</ol>
+  <li><a href="https://github.com/gabriellatcc/Classes-in-C/blob/main/codes/employeeregistration/">Registro de Funcionários | Employee Registration</li>
+
+
