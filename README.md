@@ -16,5 +16,4 @@
   <li><a href="https://github.com/gabriellatcc/Classes-in-C/blob/main/codes/evenorodd/">Indicador de número ímpar ou par | Even or odd number display</li>
   <li><a href="https://github.com/gabriellatcc/Classes-in-C/blob/main/codes/idealweight/">Indicador de peso ideal fictício | Fictional ideal weight display</li>
   <li><a href="https://github.com/gabriellatcc/Classes-in-C/blob/main/codes/employeeregistration/">Registro de Funcionários | Employee Registration</li>
-
-
+  <li><a href="https://github.com/gabriellatcc/Classes-in-C/blob/main/codes/arraysumandcount/">Somatório e Contagem de Array | Array Sum and Count</li>
