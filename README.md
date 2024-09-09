@@ -18,3 +18,4 @@
   <li><a href="https://github.com/gabriellatcc/Classes-in-C/blob/main/codes/employeeregistration/">Registro de Funcionários | Employee Registration</li>
   <li><a href="https://github.com/gabriellatcc/Classes-in-C/blob/main/codes/arraysumandcount/">Somatório e Contagem de Array | Array Sum and Count</li>
   <li><a href="https://github.com/gabriellatcc/Classes-in-C/blob/main/codes/arrayreplace/">Substituição de Valores em Array | Array Value Replacement</li>
+  <li><a href="https://github.com/gabriellatcc/Classes-in-C/blob/main/codes/displayvalues/">Exibição de valores de variáveis | Display of variable values</li>
