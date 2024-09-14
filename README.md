@@ -23,4 +23,5 @@
   <li><a href="https://github.com/gabriellatcc/Classes-in-C/blob/main/codes/scopedemo/">Variable Scope Demonstration (Demonstração de Escopo de Variáveis)</a></li>
   <li><a href="https://github.com/gabriellatcc/Classes-in-C/blob/main/codes/entermatrix/">Inserção de valores em uma matriz (Entering values in a matrix)</a></li>
   <li><a href="https://github.com/gabriellatcc/Classes-in-C/blob/main/codes/entervaluesusingfor/">Inserção em array usando laço For (Inserting into an array using a For loop)</a></li>
+  <li><a href="https://github.com/gabriellatcc/Classes-in-C/blob/main/codes/arraysum/">Somando valores de um array (Summing array values)</a></li>
 
